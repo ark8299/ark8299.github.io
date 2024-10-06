@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(86, 106, 218, 0.4); 
+  border: 6px solid #2b6ec5; 
   border-radius: 50% !important;
 }
 
@@ -309,7 +309,7 @@ h3 {
 }
 
 .full-height {
-  height: 50vh;
+  height: 75vh;
 }
 
 /* Original */
